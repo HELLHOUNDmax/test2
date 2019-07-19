@@ -37,3 +37,7 @@ let isChecked = true,
     isclose = true;
 
 console.log(isChecked && isclose);
+
+if (2*4 == 8) {
+console.log("Верно!");
+}
